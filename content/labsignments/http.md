@@ -123,8 +123,8 @@ with socket.socket(socket.AF_INET,socket.SOCK_STREAM) as sock:
     * We do not support HTTPS in this lab.
 2. Separate the IP address, port, and path.
     * If the port is not specified, use the default port 80.
-    * If the IP address is a IPv6 address, remove the square brackets around it.
-3. If it is a GET request, the params need to made into query parameters.
+    * If the IP address is an IPv6 address, remove the square brackets around it.
+3. If it is a GET request, the params need to be made into query parameters.
     * If it is a POST request the params should become the post body instead, and they should not be added to the query parameters.
 4. The path and query params must be correctly percent encoded.
 
