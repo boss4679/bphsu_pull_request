@@ -59,10 +59,10 @@ Some reference materials taken from https://github.com/vhf/free-programming-book
 <!-- *   [Django by Example for Django 1.5](http://lightbird.net/dbe2/) \https://web.archive.org/web/20141223005244/http://www.lightbird.net/dbe -->
 *   [Djen of Django](http://agiliq.com/books/djenofdjango/)
 *   [Effective Django](https://web.archive.org/web/20181130092020/http://www.effectivedjango.com/)
-*   [Tango With Django](http://www.tangowithdjango.com/book/)
-*   [Deploy Django](http://www.deploydjango.com)
+*   [Tango With Django](http://www.tangowithdjango.com/book/) - Book content
+*   [Tango With Django](http://www.tangowithdjango.com/) - About the book
 *   [The Django Book](http://www.djangobook.com)
-*   [Tango With Django](http://www.tangowithdjango.com/)
+
 
 ## Flask
 
@@ -130,8 +130,8 @@ Some reference materials taken from https://github.com/vhf/free-programming-book
 *   [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 *   [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 *   [Dev Docs](http://devdocs.io/)
-*   [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke
-*   [Eloquent JavaScript 2nd edition](https://github.com/marijnh/Eloquent-JavaScript) (work in progress)
+*   [Eloquent JavaScript](http://eloquentjavascript.net/) - Marijn Haverbeke (4th edition, up to date)
+*   [Eloquent JavaScript 2nd edition](https://github.com/marijnh/Eloquent-JavaScript) (outdated)
 *   [JavaScript Allongé](https://leanpub.com/read/javascriptallongesix/) - Reg Braithwaite
 *   [JavaScript Bible](http://media.wiley.com/product_ancillary/28/07645334/DOWNLOAD/all.pdf) (PDF)
 *   [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) - Cody Lindley
@@ -180,12 +180,10 @@ Some reference materials taken from https://github.com/vhf/free-programming-book
 From older versions of CMPUT 410:
 
 *   (L2) [Youtube Video: Prometeus - The Media Revolution](http://www.youtube.com/watch?v=xj8ZadKgdC0)
-*   (L3) [What is TCP/IP?](http://www.rloteck.com/Networkingtools/Networkingtools.html)
 *   (L3) Wikipedia: [Internet Protocol Suite](http://en.wikipedia.org/wiki/TCP/IP)
 *   (L4) Wikipedia: [XHTML](http://en.wikipedia.org/wiki/XHTML)
 *   (L4) [HTML 4.0 & XHTML 1.0 Reference](http://www.w3schools.com/tags/default.asp)
 *   (L4) [Colours and HTML](http://www.cs.ualberta.ca/%7Ezaiane/forhtml/colours.html)
-*   (L4) [Web-safe Colours](http://temp29-6.cs.ualberta.ca/mod/page/view.php?id=7629)
 *   (L4) W3 School [HTML Tutorial](http://www.w3schools.com/html/default.asp)
 *   (L4) W3 School [XHTML Tutorial](https://www.w3schools.com/xml/default.asp)
 *   (L4) W3 School [CSS Tutorial](http://www.w3schools.com/css/default.asp)
